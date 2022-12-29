@@ -99,7 +99,7 @@
 			<li class="nav-item" ><a href="#" class="nav-link active" aria-current="page">Home</a> </li>
 			<li class="nav-item">Conatct</li>
 			<li class="ms-auto nav-item"><a href="cart.php">cart</a></li>
-			<li class="nav-item">log out</li>
+			<li class="nav-item"><a href="#" class="nav-link active" aria-current="page">logout</a></li>
 		</ul>
 	</div>
 
