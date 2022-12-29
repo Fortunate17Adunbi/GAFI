@@ -98,7 +98,7 @@
 		<ul class="nav nav-pills">
 			<li class="nav-item" ><a href="#" class="nav-link active" aria-current="page">Home</a> </li>
 			<li class="nav-item">Conatct</li>
-			<li class="ms-auto nav-item">Cart</li>
+			<li class="ms-auto nav-item"><a href="cart.php">cart</a></li>
 			<li class="nav-item">log out</li>
 		</ul>
 	</div>
