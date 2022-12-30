@@ -15,7 +15,7 @@
         {
             //var_dump($row);
             echo "<br>";
-            echo "<img src='$row->image' width='20%'>";
+            echo "<img src='$row->img' width='20%'>";
             echo "<br>";   
         }
     }

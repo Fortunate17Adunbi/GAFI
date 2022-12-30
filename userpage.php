@@ -87,13 +87,7 @@
 	</script>
 </head>
 <body>
-	<!-- QUICK DESCRIPTION -->
-	<div class="animie">
-		<h1>Welcome to GAFI:WE <span class="auto-type"></span></h1>
-		
-	</div>
 	<!-- nav bar -->
-
 	<div class="container-fluid">
 		<ul class="nav nav-pills">
 			<li class="nav-item" ><a href="#" class="nav-link active" aria-current="page">Home</a> </li>
@@ -106,7 +100,7 @@
 	<div class="main-div">
 		<div class="category">
 			<!-- DEALS AND COLLECTION -->
-			<ul>
+			<ul>category
 				<li>Men Category</li>
 				<li>Women Category</li>
 				<li>Children Category</li>
@@ -116,7 +110,11 @@
 				<li></li>
 			</ul> 
 		</div>
-		<div id="slideshow-example" data-component="slideshow" class="olo">
+		<!-- QUICK DESCRIPTION -->
+		<div class="animie">
+			<h1>Welcome to GAFI:WE <span class="auto-type"></span></h1>
+		</div>
+		<!-- <div id="slideshow-example" data-component="slideshow" class="olo">
 			<div role="list" class="show">
 				<div class="slide">
 					<img src="https://github.com/Fortunate17Adunbi/GAFI-PROJECT/blob/master/img/gafi2.jpeg?raw=true" alt="" width="400px" height="400px">
@@ -128,7 +126,7 @@
 					<img src="https://github.com/Fortunate17Adunbi/GAFI-PROJECT/blob/master/img/1%20(48).jpg?raw=true" alt="" width="400px" height="400px">
 				</div>
 			</div>
-  		</div>
+  		</div> -->
 	</div>
 	<div class="box-1">		
 		<!-- category description -->
@@ -252,16 +250,12 @@
 	<div class="">
 		<p id="demo" class="down" style="margin-left: 100px;"></p>
 	</div>
-
 	<footer class="row row-cols-1 row-cols-sm-2 row-cols-md-5 py-5 my-5 border-top">
-
-
 		<div class="col mb-3">
 			<a href="https://www.facebook.com/michael.adunbi"><img src="https://github.com/Fortunate17Adunbi/GAFI-PROJECT/blob/master/icon/facebook.png?raw=true" alt="Facebook" width="30%"></a><br><br>	 		
 			<a href="https://www.instagram.com/michaeladebayo627/"><img src="https://github.com/Fortunate17Adunbi/GAFI-PROJECT/blob/master/icon/instagram.png?raw=true" alt="Instagram" width="30%"></a><br><br>						
 			<a href="https://twitter.com/Michael80722231"><img src="https://github.com/Fortunate17Adunbi/GAFI-PROJECT/blob/master/icon/twitter.png?raw=true" alt="Twitter" width="30%"></a>
 		</div>
-
 		<div class="col mb-3">
 			<h5>Section</h5>
 			<ul class="nav flex-column">
@@ -272,7 +266,6 @@
 				<li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">About</a></li>
 			</ul>
 		</div>
-
 		<div class="col mb-3">
 			<h5>Section</h5>
 			<ul class="nav flex-column">
@@ -283,7 +276,6 @@
 				<li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">About</a></li>
 			</ul>
 		</div>
-
 		<div class="col mb-3">
 			<h5>Section</h5>
 			<ul class="nav flex-column">
@@ -294,39 +286,7 @@
 				<li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">About</a></li>
 			</ul>
 		</div>
-
-
-		
   	</footer>
-
-		
-
-      <!-- logo and descrtiption -->
-      <!-- <div class="lgde">
-       <p class="down"><img src="img\GAFI.png" alt="GAFI" width="20%"></p>
-      </div> -->
-	
-			<!-- <div class="column">
-				<h4>About us</h4>
-				<ul>
-					<li><a href="#">contact</a></li>
-					<li><a href="#">about</a></li>
-					<li><a href="#">contact</a></li>
-					<li><a href="#">about</a></li>
-				</ul>
-			</div>
-			<div class="column">
-				<h4>follow us</h4>
-				<div class="social-media">
-						
-					<a href="https://www.facebook.com/michael.adunbi"><img src="icon/facebook.png" alt="Facebook" width="5%"></a>			
-					<a href="https://www.instagram.com/michaeladebayo627/"><img src="icon/instagram.png" alt="Instagram" width="5%"></a>						
-					<a href="https://twitter.com/Michael80722231"><img src="icon/twitter.png" alt="Twitter" width="5%"></a>
-				</div>
-			</div> -->
-
-			
-		
 
 	<!-- icon refrence -->
 	<!-- 
