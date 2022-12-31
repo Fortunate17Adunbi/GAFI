@@ -8,6 +8,7 @@
     {
         $username = $_POST['username'];
         $password = $_POST['password'];
+        $password = md5($password);
         $phone = $_POST['phone'];
         $fname = $_POST['fname'];
         $lname = $_POST['lname'];

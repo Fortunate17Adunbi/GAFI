@@ -3,7 +3,7 @@ body{
 }
 .first{
     display: inline;
-}
+}.main-div
 .left{
     list-style-type: none;
     overflow: hidden;
@@ -32,15 +32,6 @@ body{
     margin-left: 20px;
     
 }
-.category{
-    width: 150%px;
-    height: 400px;
-    
-}
-.category ul li{
-    margin-bottom: 25% ;
-}
-
 .olo{
     width: 600px;
     /* //background: #ffffff; */
@@ -243,15 +234,11 @@ li{
     width: 900px;
     height: 500px;
     border-radius: 10px;
-    /* //padding: 40px; */
+    /* padding: 40px; */
     box-sizing: border-box;
-    background: #ecfbfc;
+    /* background: #ecfbfc; */
     display:  flex;
-    font-family: serif;
-    font-size: 20px;
-    font-weight: bold;
-
-    
+    font-size: .75rem;
 }     
 .ano {
     display: none;

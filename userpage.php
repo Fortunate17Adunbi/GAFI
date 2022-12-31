@@ -90,17 +90,17 @@
 	<!-- nav bar -->
 	<div class="container-fluid">
 		<ul class="nav nav-pills">
-			<li class="nav-item" ><a href="#" class="nav-link active" aria-current="page">Home</a> </li>
-			<li class="nav-item">Conatct</li>
-			<li class="ms-auto nav-item"><a href="cart.php">cart</a></li>
-			<li class="nav-item"><a href="#" class="nav-link active" aria-current="page">logout</a></li>
+			<li class="nav-item" ><a href="#" class="nav-link active" aria-current="page">Home</a></li>
+			<li class="nav-item"><a href="#" class="nav-link" aria-current="page">Contact</a></li>
+			<li class="ms-auto nav-item"><a href="#" class="nav-link" aria-current="page">cart</a></li>
+			<li class="nav-item"><a href="#" class="nav-link " aria-current="page">logout</a></li>
 		</ul>
 	</div>
 
 	<div class="main-div">
 		<div class="category">
 			<!-- DEALS AND COLLECTION -->
-			<ul>category
+			<ul style="font-family: Roboto,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica Neue,Arial,sans-serif;">
 				<li>Men Category</li>
 				<li>Women Category</li>
 				<li>Children Category</li>
@@ -111,9 +111,9 @@
 			</ul> 
 		</div>
 		<!-- QUICK DESCRIPTION -->
-		<div class="animie">
+		<!-- <div class="animie">
 			<h1>Welcome to GAFI:WE <span class="auto-type"></span></h1>
-		</div>
+		</div> -->
 		<!-- <div id="slideshow-example" data-component="slideshow" class="olo">
 			<div role="list" class="show">
 				<div class="slide">
